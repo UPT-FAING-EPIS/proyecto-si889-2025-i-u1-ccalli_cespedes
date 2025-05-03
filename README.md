@@ -1,4 +1,4 @@
-﻿**Sistema de Recomendación de Carreras Universitarias Basado en el Perfil del Usuario – Tacna ![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.001.png)**
+﻿**Sistema de Recomendación de Carreras Universitarias Basado en el Perfil del Usuario – Tacna ![ref1]**
 
 **Estudiantes:** 
 
@@ -31,7 +31,7 @@ Desarrollar un sistema de recomendación de carreras universitarias que oriente 
 **Objetivos Específicos** 
 
 - Implementar un módulo de evaluación de intereses y habilidades del usuario. 
-- Desarrollar un algoritmo de recomendación de carreras basado en el perfil individual. ![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.002.png)
+- Desarrollar un algoritmo de recomendación de carreras basado en el perfil individual. ![ref1]
 - Diseñar una interfaz amigable para la presentación de sugerencias personalizadas. 
 - Permitir la generación de reportes PDF con los resultados de recomendación. 
 - Facilitar el registro y autenticación de usuarios para mantener su historial. 
@@ -69,21 +69,21 @@ Se empleará la metodología ágil **Scrum**, que permitirá el desarrollo itera
 
 Diagrama de Despliegue: 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.004.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.002.png)
 
 Infracost Report: 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.005.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.003.jpeg)
 
 Diagrama de Arquitectura: ![ref1]
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.006.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.004.png)
 
 Diagrama del Proceso Propuesto 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.007.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.005.png)
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.008.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.006.jpeg)
 
 **II. Especificación de Requerimientos de Software ![ref1]**
 
@@ -135,181 +135,181 @@ Requerimientos No Funcionales: ![ref1]
 
 **HU01: Registro de Cliente** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.009.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.007.jpeg)
 
 **HU02: Iniciar Sesión** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.010.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.008.jpeg)
 
 **HU03: Actualización de Perfil** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.011.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.009.jpeg)
 
 **HU04: Selección de Carrera** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.012.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.010.jpeg)
 
 **HU05: Visualización de Recomendaciones** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.013.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.011.png)
 
 **HU06: Realizar Búsqueda de Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.014.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.012.jpeg)
 
 **HU07: Ver Detalles de una Carrera** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.015.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.013.png)
 
 **HU08: Guardar Carreras Favoritas** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.016.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.014.png)
 
 **HU09: Ver Histórico de Carreras Consultadas** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.017.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.015.png)
 
 **HU10: Filtrar Carreras por Requisitos** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.018.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.016.jpeg)
 
 **HU11: Recomendar Carreras Basadas en Perfil** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.019.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.017.png)
 
 **HU12: Contactar con Asesor de Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.020.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.018.jpeg)
 
 **HU13: Ver Notificaciones** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.021.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.019.jpeg)
 
 **HU14: Eliminar Carrera de Favoritos** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.022.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.020.png)
 
 **HU15: Ver Detalles del Asesor** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.023.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.021.png)
 
 **HU16: Configurar Preferencias de Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.024.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.022.png)
 
 **HU17: Buscar Asesores por Especialidad** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.025.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.023.png)
 
 **HU18: Consultar Plan de Estudio de Carrera** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.026.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.024.png)
 
 **HU19: Enviar Comentarios sobre el Sistema** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.027.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.025.png)
 
 **HU20: Cerrar Sesión** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.028.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.026.png)
 
 **Diagrama de Secuencia:** 
 
 🔹 **HU01 - Registro de Cliente** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.029.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.027.jpeg)
 
 🔹 **HU02 - Iniciar Sesión** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.030.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.028.jpeg)
 
 🔹 **HU03 - Actualización de Perfil** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.031.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.029.jpeg)
 
 🔹 **HU04 - Selección de Carrera** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.032.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.030.jpeg)
 
 🔹 **HU05 - Visualización de Recomendaciones** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.033.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.031.png)
 
 🔹 **HU06 - Realizar Búsqueda de Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.034.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.032.jpeg)
 
 🔹 **HU07 - Ver Detalles de una Carrera** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.035.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.033.jpeg)
 
 🔹 **HU08 - Guardar Carreras Favoritas** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.036.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.034.jpeg)
 
 🔹 **HU09 - Ver Histórico de Carreras Consultadas** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.037.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.035.jpeg)
 
 🔹 **HU10 - Filtrar Carreras por Requisitos** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.038.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.036.jpeg)
 
 🔹 **HU11 - Comparar Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.039.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.037.jpeg)
 
 🔹 **HU12 - Evaluar Perfil del Usuario** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.040.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.038.png)
 
 🔹 **HU13 - Recibir Recomendaciones por Correo** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.041.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.039.png)
 
 🔹 **HU14 - Acceder desde Dispositivo Móvil** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.042.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.040.jpeg)
 
 🔹 **HU15 - Recibir Notificaciones sobre Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.043.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.041.jpeg)
 
 🔹 **HU16 - Descargar PDF de Recomendaciones** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.044.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.042.jpeg)
 
 🔹 **HU17 - Calificar Carreras Recomendadas** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.045.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.043.jpeg)
 
 🔹 **HU18 - Contactar con un Asesor** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.046.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.044.jpeg)
 
 🔹 **HU19 - Visualizar Ranking de Carreras** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.047.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.045.jpeg)
 
 🔹 **HU20 - Gestionar Preferencias del Sistema** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.048.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.046.png)
 
 **Diagrama de Clases:** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.049.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.047.jpeg)
 
 **Diagrama de Base de Datos:** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.050.jpeg)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.048.jpeg)
 
 **Tablas de Base de Datos:** 
 
-![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.051.png)
+![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.049.png)
 
 **Conclusión:** 
 
-- El sistema propuesto de recomendación de carreras universitarias basado en el perfil del usuario proporcionará a los estudiantes una herramienta eficiente para tomar decisiones informadas sobre su futuro académico. Al ofrecer recomendaciones personalizadas según los intereses, habilidades y preferencias del usuario, el sistema facilita una experiencia única y personalizada, ayudando a los estudiantes a identificar las carreras más alineadas con sus objetivos profesionales. ![](img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.052.png)
+- El sistema propuesto de recomendación de carreras universitarias basado en el perfil del usuario proporcionará a los estudiantes una herramienta eficiente para tomar decisiones informadas sobre su futuro académico. Al ofrecer recomendaciones personalizadas según los intereses, habilidades y preferencias del usuario, el sistema facilita una experiencia única y personalizada, ayudando a los estudiantes a identificar las carreras más alineadas con sus objetivos profesionales. 
 
 **Bibliografía:** 
 
@@ -324,4 +324,4 @@ Requerimientos No Funcionales: ![ref1]
 1. Pérez, L., & Jiménez, E. (2021). *Uso de big data en la educación: tendencias y perspectivas*. Wiley. 
 1. Torres, A., & Ramírez, D. (2020). *Sistemas inteligentes para la personalización educativa en línea*. Routledge. 
 
-[ref1]: img/Aspose.Words.83f84fd3-bf8f-47f0-8f7a-86f5438ab446.003.png
+[ref1]: Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.001.png

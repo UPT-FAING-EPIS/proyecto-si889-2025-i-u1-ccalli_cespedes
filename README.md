@@ -69,21 +69,21 @@ Se empleará la metodología ágil **Scrum**, que permitirá el desarrollo itera
 
 Diagrama de Despliegue: 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.002.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.002.png)
 
 Infracost Report: 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.003.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.003.jpeg)
 
 Diagrama de Arquitectura: ![ref1]
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.004.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.004.png)
 
 Diagrama del Proceso Propuesto 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.005.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.005.png)
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.006.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.006.jpeg)
 
 **II. Especificación de Requerimientos de Software ![ref1]**
 
@@ -135,177 +135,177 @@ Requerimientos No Funcionales: ![ref1]
 
 **HU01: Registro de Cliente** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.007.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.007.jpeg)
 
 **HU02: Iniciar Sesión** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.008.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.008.jpeg)
 
 **HU03: Actualización de Perfil** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.009.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.009.jpeg)
 
 **HU04: Selección de Carrera** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.010.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.010.jpeg)
 
 **HU05: Visualización de Recomendaciones** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.011.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.011.png)
 
 **HU06: Realizar Búsqueda de Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.012.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.012.jpeg)
 
 **HU07: Ver Detalles de una Carrera** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.013.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.013.png)
 
 **HU08: Guardar Carreras Favoritas** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.014.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.014.png)
 
 **HU09: Ver Histórico de Carreras Consultadas** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.015.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.015.png)
 
 **HU10: Filtrar Carreras por Requisitos** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.016.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.016.jpeg)
 
 **HU11: Recomendar Carreras Basadas en Perfil** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.017.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.017.png)
 
 **HU12: Contactar con Asesor de Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.018.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.018.jpeg)
 
 **HU13: Ver Notificaciones** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.019.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.019.jpeg)
 
 **HU14: Eliminar Carrera de Favoritos** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.020.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.020.png)
 
 **HU15: Ver Detalles del Asesor** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.021.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.021.png)
 
 **HU16: Configurar Preferencias de Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.022.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.022.png)
 
 **HU17: Buscar Asesores por Especialidad** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.023.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.023.png)
 
 **HU18: Consultar Plan de Estudio de Carrera** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.024.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.024.png)
 
 **HU19: Enviar Comentarios sobre el Sistema** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.025.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.025.png)
 
 **HU20: Cerrar Sesión** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.026.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.026.png)
 
 **Diagrama de Secuencia:** 
 
 🔹 **HU01 - Registro de Cliente** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.027.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.027.jpeg)
 
 🔹 **HU02 - Iniciar Sesión** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.028.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.028.jpeg)
 
 🔹 **HU03 - Actualización de Perfil** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.029.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.029.jpeg)
 
 🔹 **HU04 - Selección de Carrera** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.030.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.030.jpeg)
 
 🔹 **HU05 - Visualización de Recomendaciones** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.031.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.031.png)
 
 🔹 **HU06 - Realizar Búsqueda de Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.032.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.032.jpeg)
 
 🔹 **HU07 - Ver Detalles de una Carrera** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.033.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.033.jpeg)
 
 🔹 **HU08 - Guardar Carreras Favoritas** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.034.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.034.jpeg)
 
 🔹 **HU09 - Ver Histórico de Carreras Consultadas** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.035.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.035.jpeg)
 
 🔹 **HU10 - Filtrar Carreras por Requisitos** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.036.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.036.jpeg)
 
 🔹 **HU11 - Comparar Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.037.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.037.jpeg)
 
 🔹 **HU12 - Evaluar Perfil del Usuario** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.038.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.038.png)
 
 🔹 **HU13 - Recibir Recomendaciones por Correo** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.039.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.039.png)
 
 🔹 **HU14 - Acceder desde Dispositivo Móvil** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.040.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.040.jpeg)
 
 🔹 **HU15 - Recibir Notificaciones sobre Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.041.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.041.jpeg)
 
 🔹 **HU16 - Descargar PDF de Recomendaciones** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.042.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.042.jpeg)
 
 🔹 **HU17 - Calificar Carreras Recomendadas** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.043.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.043.jpeg)
 
 🔹 **HU18 - Contactar con un Asesor** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.044.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.044.jpeg)
 
 🔹 **HU19 - Visualizar Ranking de Carreras** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.045.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.045.jpeg)
 
 🔹 **HU20 - Gestionar Preferencias del Sistema** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.046.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.046.png)
 
 **Diagrama de Clases:** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.047.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.047.jpeg)
 
 **Diagrama de Base de Datos:** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.048.jpeg)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.048.jpeg)
 
 **Tablas de Base de Datos:** 
 
-![](Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.049.png)
+![](img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.049.png)
 
 **Conclusión:** 
 
@@ -324,4 +324,4 @@ Requerimientos No Funcionales: ![ref1]
 1. Pérez, L., & Jiménez, E. (2021). *Uso de big data en la educación: tendencias y perspectivas*. Wiley. 
 1. Torres, A., & Ramírez, D. (2020). *Sistemas inteligentes para la personalización educativa en línea*. Routledge. 
 
-[ref1]: Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.001.png
+[ref1]: img/Aspose.Words.a16e838d-c678-488d-af62-6fe167feefe2.001.png

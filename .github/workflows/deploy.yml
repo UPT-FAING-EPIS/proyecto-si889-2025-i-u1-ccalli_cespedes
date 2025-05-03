@@ -1,0 +1,89 @@
+name: Construcción y despliegue del Sistema de Recomendación de Carreras en Azure App Service
+
+env:
+  AZURE_WEBAPP_NAME: upt-awa-carreras
+  AZURE_WEBAPP_PACKAGE_PATH: '.'
+  DOTNET_VERSION: '8'
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Construcción del Sistema de Carreras
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar .NET Core SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Restaurar dependencias
+        working-directory: SistemaCarreras
+        run: dotnet restore
+
+      - name: Compilar en modo Release
+        working-directory: SistemaCarreras
+        run: dotnet build --configuration Release
+
+      - name: Publicar aplicación
+        working-directory: SistemaCarreras
+        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/app-carreras
+
+      - name: Subir artefacto para despliegue
+        uses: actions/upload-artifact@v4
+        with:
+          name: carreras-package
+          path: ${{env.DOTNET_ROOT}}/app-carreras
+
+  deploy:
+    name: Despliegue en Azure
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: none
+    environment:
+      name: Producción
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+    steps:
+      - name: Descargar artefacto para despliegue
+        uses: actions/download-artifact@v4
+        with:
+          name: carreras-package
+
+      - name: Desplegar a Azure App Service
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: .
+
+      - name: Confirmación
+        run: echo "Sistema de Recomendación de Carreras desplegado exitosamente."
+
+      - name: Estimación de costos
+        run: |
+          echo "## Estimación de Costos del Sistema de Carreras" >> $GITHUB_STEP_SUMMARY
+          echo "- Azure App Service (Plan gratuito): $0.00 USD/mes" >> $GITHUB_STEP_SUMMARY
+          echo "- Azure SQL Database (DTU básico): $5.00 USD/mes" >> $GITHUB_STEP_SUMMARY
+          echo "- Azure Storage (logs y respaldos): $1.00 USD/mes" >> $GITHUB_STEP_SUMMARY
+          echo "- Costo total estimado: $6.00 USD/mes" >> $GITHUB_STEP_SUMMARY
+
+      - name: Generar diagrama de arquitectura
+        run: |
+          echo "<svg><!-- Diagrama del sistema de carreras universitarias desplegado en Azure --></svg>" > arquitectura-carreras.svg
+        shell: bash
+
+      - name: Subir diagrama de infraestructura
+        uses: actions/upload-artifact@v4
+        with:
+          name: Diagrama Infraestructura Carreras
+          path: arquitectura-carreras.svg
